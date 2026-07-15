@@ -3,14 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=230&section=header&text=Lee%20Jong%20Hun&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI%20Service%20Developer&descAlignY=62&descSize=20&descColor=ffffff" />
 
 <br/>
-
-<img src="https://img.shields.io/badge/Gmail-ljh11442%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-<a href="https://ddolteng.tistory.com/"><img src="https://img.shields.io/badge/Blog-ddolteng.tistory.com-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=ljh11442-ctrl&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/ljh11442-ctrl?style=for-the-badge&logo=github&label=FOLLOWERS&color=06B6D4"/>
+<img src="https://img.shields.io/badge/Gmail-ljh11442%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://ddolteng.tistory.com/"><img src="https://img.shields.io/badge/Blog-ddolteng.tistory.com-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
 </div>
 
@@ -18,15 +14,18 @@
 
 ## 👋 About Me
 
-[#-about-me](#-about-me)
 > **관찰 → 데이터 분석 → 실행 → 검증**의 사이클로 문제를 해결하는 개발자입니다.
 
-- 🍽 3년간 자영업 매장을 직접 운영하며, 데이터 기반 의사결정으로 **매출 30% 이상 증가**시킨 경험 보유
+- 💻 AI & Developer
+- 🤖 AI를 활용하여 실제 문제를 해결하는 서비스를 만드는 것을 좋아합니다.
+- 🚀 FastAPI, Spring Boot 기반 백엔드 개발과 LLM, RAG 기술에 관심이 있습니다.
 - 🎓 **IBM x Red Hat AI Transformation - AX Academy**(960H) 수료, 풀스택(Python·React·FastAPI) + 생성형 AI(watsonx.ai, RAG) 실무 학습
+- 🏗 현재 AI 기반 육아 성장 일기 플랫폼 DearBaby 프로젝트를 개발하고 있습니다.
+- 🌱 클라우드(AWS), MSA, System Design을 학습하며 더 나은 서비스를 만들기 위해 성장하고 있습니다.
+- 📝 기술 블로그를 운영하며 개발 경험과 문제 해결 과정을 기록하고 있습니다.
 - 🌏 다국적 고객 응대 및 해외 유학(뉴질랜드) 경험 기반 커뮤니케이션 역량
 - 🎯 "일단 되게 만들기"보다 "사용자가 실제로 어떻게 쓸지"부터 그려보는 개발을 지향합니다
-- 📫 편하게 Follow / Star 환영입니다!
-
+<br>
 ### 💡 Interests
 
 `AI` · `Backend` · `FastAPI` · `Spring Boot` · `LLM` · `RAG` · `Cloud`
@@ -124,7 +123,7 @@ Cloud & Deploy       AWS(EC2/ECS), Docker, Kubernetes(OpenShift)
 
 <div align="center">
 
-**진단력, 실행력, 그리고 성장하는 태도로 결과물의 완성도를 높이는 개발자가 되겠습니다.**
+**성장하는 태도로 결과물의 완성도를 높이는 개발자가 되겠습니다.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=130&section=footer" />
 
